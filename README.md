@@ -20,20 +20,20 @@ This is a **Flappy Bird**-inspired game built using **HTML**, **CSS**, and **Jav
 4. **Game Over**: The game ends when the bird hits a pipe or the ground. Restart the game by pressing any key or tapping.
 
 ## 💻 Installation
-
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flappy-bird-game.git
+git clone https://github.com/your-username/flappy-bird-game.git
+
+Copy code
 2. Navigate into the project directory:
-```bash
-cd flappy-bird-game 
-3. Open index.html in your web browser 🌐.
+cd flappy-bird-game
+
+Copy code
+3. Open `index.html` in your web browser 🌐.
 
 ## 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🤝 Contributing
-Feel free to fork this repository 🍴 and submit pull requests to enhance the game. Contributions are welcome! 🎉
-
 ## 👨‍💻 Author
+
 Eman Siddiqui
