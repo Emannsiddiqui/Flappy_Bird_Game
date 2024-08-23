@@ -21,7 +21,7 @@ This is a **Flappy Bird**-inspired game built using **HTML**, **CSS**, and **Jav
 
 ## 💻 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/flappy-bird-game.git
+git clone https://github.com/Emannsiddiqui/flappy-bird-game.git
 
 Copy code
 2. Navigate into the project directory:
