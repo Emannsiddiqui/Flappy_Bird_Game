@@ -26,11 +26,11 @@ This is a **Flappy Bird**-inspired game built using **HTML**, **CSS**, and **Jav
 1. Clone the repository:
 git clone https://github.com/Emannsiddiqui/flappy-bird-game.git
 
-Copy code
+
 2. Navigate into the project directory:
 cd flappy-bird-game
 
-Copy code
+
 3. Open `index.html` in your web browser 🌐.
 
 ## 📜 License
@@ -40,8 +40,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 Eman Siddiqui
+
 follow me on,
+
 Linked in: www.linkedin.com/in/eman-siddiqui-394666156
+
 Github: https://github.com/Emannsiddiqui
 
 
